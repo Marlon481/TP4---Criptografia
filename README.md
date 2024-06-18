@@ -19,13 +19,17 @@
 #### Perguntas objetivas sobre o projeto(chacklist):
 
  * Há uma função de cifragem em todas as classes de entidades, envolvendo pelo menos duas operações diferentes e usando uma chave criptográfica?
-	Sim. Substituição (Vigenère) e tranposição (Colunas)
+	
+ 	Sim. Substituição (Vigenère) e tranposição (Colunas)
  * Uma das operações de cifragem é baseada na substituição e a outra na transposição?
-	Sim.
+	
+ 	Sim.
  * O trabalho está funcionando corretamente?
-	Sim, todos os dados de todas as entidades são cifradas e decifradas sem problema.
+	
+ 	Sim, todos os dados de todas as entidades são cifradas e decifradas sem problema.
  * O trabalho está completo?
-	Sim.
+	
+ 	Sim.
  * O trabalho é original e não a cópia de um trabalho de um colega?
 	Sim.
 
